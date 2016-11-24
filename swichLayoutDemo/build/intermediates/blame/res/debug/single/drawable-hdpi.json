@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_back.png",
+        "source": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_more.png",
+        "source": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\src\\main\\res\\drawable-hdpi\\icon_more.png"
+    },
+    {
+        "merged": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

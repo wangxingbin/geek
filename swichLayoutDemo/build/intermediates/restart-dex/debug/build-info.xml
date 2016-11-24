@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="78361098365156"
+    token="6849167112204516715" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="78269164003821"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\studio\SwitchLayoutDemo\swichLayoutDemo\build\outputs\apk\swichLayoutDemo-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="78361098365156" />
+
+</instant-run>

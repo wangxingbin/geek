@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\title_pressed.xml",
+        "source": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\src\\main\\res\\drawable\\title_pressed.xml"
+    },
+    {
+        "merged": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\title_selector.xml",
+        "source": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\src\\main\\res\\drawable\\title_selector.xml"
+    },
+    {
+        "merged": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\title_normal.xml",
+        "source": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\src\\main\\res\\drawable\\title_normal.xml"
+    }
+]

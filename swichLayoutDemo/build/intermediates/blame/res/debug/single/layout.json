@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\studio\\SwitchLayoutDemo\\swichLayoutDemo\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
